@@ -1,0 +1,24 @@
+.root {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .title {
+    font-size: 50px;
+  }
+
+  .new {
+    height: 100%;
+    background-color: #6c757d71;
+    border-radius: 20px;
+    .img {
+      height: 200px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      background-size: cover;
+      border-radius: 20px;
+    }
+  }
+}

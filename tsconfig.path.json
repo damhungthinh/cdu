@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "paths": {
+      "@hooks/*": ["src/hooks/*"],
+      "@entity/*": ["src/entities/*"],
+      "@utils/*": ["src/utils/*"],
+      "@data/*": ["src/data/*"],
+      "@assets/*": ["src/assets/*"],
+      "@components/*": ["src/components/*"],
+      "@reducers/*": ["src/store/reducers/*"],
+      "@middlewares/*": ["src/store/middlewares/*"]
+    },
+    "baseUrl": "."
+  },
+  "exclude": ["node_modules"]
+}

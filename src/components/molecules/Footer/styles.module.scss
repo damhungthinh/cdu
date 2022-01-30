@@ -1,0 +1,30 @@
+.root {
+  padding-top: 24px;
+  h5 {
+    color: var(--white) !important;
+  }
+
+  a {
+    color: var(--white) !important;
+
+    &.ref {
+      font-size: 40px;
+    }
+  }
+
+  .refs {
+    width: 100%;
+    justify-content: center;
+    margin: 40px 0px;
+  }
+  .acknowledges {
+    color: var(--white);
+    text-align: center;
+  }
+  .copyright {
+    padding-top: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

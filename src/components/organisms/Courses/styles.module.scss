@@ -1,0 +1,38 @@
+.root {
+  padding: 50px;
+
+  .course {
+    background: var(--primary);
+    color: var(--white);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    .container {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: flex-start;
+      .content {
+        flex: 1 1 auto;
+        .title {
+          color: var(--white);
+        }
+
+        .description {
+          font-size: 18px;
+        }
+      }
+      .action {
+        flex-shrink: 0;
+        color: var(--white);
+        font-style: italic;
+
+        &:hover {
+          opacity: 0.75;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+declare module 'rc-animate'
+declare module 'rc-animate/*'
+declare module 'rc-tween-one'
+declare module 'rc-tween-one/*'
+declare module 'rc-scroll-anim'
+declare module 'rc-scroll-anim/*'

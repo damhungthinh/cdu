@@ -1,0 +1,27 @@
+.root {
+  flex: 1 1 auto;
+  height: 100%;
+  .menu-wrapper {
+    width: 100%;
+    height: 100%;
+    justify-content: flex-end;
+    .menu-item {
+      display: flex;
+      align-items: center;
+      &::after {
+        top: 0;
+        bottom: unset;
+      }
+      > span {
+        padding: 0px 6px;
+      }
+    }
+  }
+
+  .avatar {
+    background-color: transparent;
+    border: 1px solid var(--dark);
+    color: var(--dark);
+    margin-left: 10px;
+  }
+}
