@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cdu/static/css/main.c9d5cf5f.css",
+    "main.js": "/cdu/static/js/main.e15ee4c0.js",
+    "static/js/787.80d256b3.chunk.js": "/cdu/static/js/787.80d256b3.chunk.js",
+    "static/media/Pe-icon-7-stroke.svg?d7yf1v": "/cdu/static/media/Pe-icon-7-stroke.09c6a96523589cb91799.svg",
+    "static/media/Wanderlust.ttf": "/cdu/static/media/Wanderlust.56388b68f6d33eb191d8.ttf",
+    "static/media/Pe-icon-7-stroke.eot": "/cdu/static/media/Pe-icon-7-stroke.1d449ea50ab8389ee078.eot",
+    "static/media/Pe-icon-7-stroke.woff?d7yf1v": "/cdu/static/media/Pe-icon-7-stroke.11f7c073b050d62afb33.woff",
+    "static/media/Pe-icon-7-stroke.ttf?d7yf1v": "/cdu/static/media/Pe-icon-7-stroke.7233a7aee250f9b77fba.ttf",
+    "static/media/Cunia.otf": "/cdu/static/media/Cunia.ba7c142719aa837b16c4.otf",
+    "index.html": "/cdu/index.html",
+    "main.c9d5cf5f.css.map": "/cdu/static/css/main.c9d5cf5f.css.map",
+    "main.e15ee4c0.js.map": "/cdu/static/js/main.e15ee4c0.js.map",
+    "787.80d256b3.chunk.js.map": "/cdu/static/js/787.80d256b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d5cf5f.css",
+    "static/js/main.e15ee4c0.js"
+  ]
+}
